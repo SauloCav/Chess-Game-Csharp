@@ -85,7 +85,7 @@ namespace xadrez
             HashSet<Peca> aux = new HashSet<Peca>();
             foreach (Peca x in capturadas)
             {
-                if(x.cor = cor)
+                if(x.cor == cor)
                 {
                     aux.Add(x);
                 }
@@ -98,7 +98,7 @@ namespace xadrez
             HashSet<Peca> aux = new HashSet<Peca>();
             foreach (Peca x in pecas)
             {
-                if (x.cor = cor)
+                if (x.cor == cor)
                 {
                     aux.Add(x);
                 }
