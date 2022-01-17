@@ -1,3 +1,3 @@
 # Chess-Game-Csharp
 
-A chess game developed in C# using object-oriented programming principles
+A chess game developed in C# applying object-oriented programming principles
