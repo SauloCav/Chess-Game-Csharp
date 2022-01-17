@@ -1,13 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace tabuleiro
-{
-    class TabuleiroException : Exception
-    {
+namespace tabuleiro {
+    class TabuleiroException : Exception {
 
-        public TabuleiroException(String msg) : base(msg) { }
-
+        public TabuleiroException(string msg) : base(msg) {
+        }
     }
 }

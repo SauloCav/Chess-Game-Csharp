@@ -1,11 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace tabuleiro
-{
-    enum Cor
-    {
+﻿namespace tabuleiro {
+    enum Cor {
 
         Branca,
         Preta,
@@ -14,6 +8,5 @@ namespace tabuleiro
         Vermelha,
         Verde,
         Laranja
-
     }
 }
